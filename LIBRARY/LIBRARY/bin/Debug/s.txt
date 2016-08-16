@@ -1,0 +1,39 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+using MySql.Data;
+using MySql.Data.MySqlClient;
+
+namespace LIBRARY
+{
+    public partial class Report : Form
+    {
+        public Report()
+        {
+            InitializeComponent();
+        }
+
+        private void Report_Load(object sender, EventArgs e)
+        {
+            Uri u = new Uri("c://lmis.txt");
+            browser.Url = u;
+        }
+
+        private void toolStripButton1_Click(object sender, EventArgs e)
+        {
+            browser.ShowPrintDialog();
+        }
+
+        private void toolStripButton2_Click(object sender, EventArgs e)
+        {
+            //genarate html file & navigate file
+
+            //browser.Navigate("");
+        }
+    }
+}

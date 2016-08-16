@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LIBRARY.Add_Books" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>cAAAIAEAACEAAFACAQCAAACSAgAYYAAAAWAACAAAAAA=</HashCode>
+      <FileName>Add_Books.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="components" />
+      <Field Name="ConnectionString" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="LIBRARY.Add_Serial" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAICEQAFAgAACAAACSAgAYQAAAAGAgAAAAAAA=</HashCode>
+      <FileName>Add_Serial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LIBRARY.Borrow" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAQCAAsBAAAEiAIIACASAYQAAAAGAAAAAACgA=</HashCode>
+      <FileName>Borrow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LIBRARY.conSetting" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAABAAAACAAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>conSetting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LIBRARY.Form1" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>db9vZ43s8r+njV1O/n+fyd/+T/7vMej4/f///HF+frs=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LIBRARY.Login" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAIg4CAAAgHAAABEAAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LIBRARY.Program" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LIBRARY.Return" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAQCAAABAAAECAIIQCASAYQAAAAGAAAEAACgA=</HashCode>
+      <FileName>Return.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LIBRARY.Settings" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAlAMIQTgRWNAZAASDIFBC0MxrZVAAUHBPgBCBxCA=</HashCode>
+      <FileName>Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LIBRARY.Splash" Collapsed="true">
+    <Position X="3" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACQACAAABIAAACAAAACAAAAIAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Splash.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LIBRARY.Staff_Register" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>MgAQAAAABaQCABBBBCCAggACERA4AACAQHBgAAAgAiA=</HashCode>
+      <FileName>Staff_Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LIBRARY.Student_Register" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>sxAQAAAQAaQiABBBFCCAggACERg4AACAQHBgEAAgAiA=</HashCode>
+      <FileName>Student_Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LIBRARY.Properties.Resources" Collapsed="true">
+    <Position X="1.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.String" Collapsed="true">
+    <Position X="3.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="System.ComponentModel.IContainer" Collapsed="true">
+    <Position X="1.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

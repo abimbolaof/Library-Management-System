@@ -1,0 +1,15 @@
+C:\WINDOWS\Segun_Files\Programming\VisualStudio2008\LIBRARY\LIBRARY\bin\Release\LIBRARY.exe
+C:\WINDOWS\Segun_Files\Programming\VisualStudio2008\LIBRARY\LIBRARY\bin\Release\LIBRARY.pdb
+C:\WINDOWS\Segun_Files\Programming\VisualStudio2008\LIBRARY\LIBRARY\obj\Release\ResolveAssemblyReference.cache
+C:\WINDOWS\Segun_Files\Programming\VisualStudio2008\LIBRARY\LIBRARY\obj\Release\LIBRARY.Add_Record.resources
+C:\WINDOWS\Segun_Files\Programming\VisualStudio2008\LIBRARY\LIBRARY\obj\Release\LIBRARY.Form1.resources
+C:\WINDOWS\Segun_Files\Programming\VisualStudio2008\LIBRARY\LIBRARY\obj\Release\LIBRARY.Login.resources
+C:\WINDOWS\Segun_Files\Programming\VisualStudio2008\LIBRARY\LIBRARY\obj\Release\LIBRARY.Properties.Resources.resources
+C:\WINDOWS\Segun_Files\Programming\VisualStudio2008\LIBRARY\LIBRARY\obj\Release\LIBRARY.Splash.resources
+C:\WINDOWS\Segun_Files\Programming\VisualStudio2008\LIBRARY\LIBRARY\obj\Release\LIBRARY.csproj.GenerateResource.Cache
+C:\WINDOWS\Segun_Files\Programming\VisualStudio2008\LIBRARY\LIBRARY\obj\Release\LIBRARY.exe
+C:\WINDOWS\Segun_Files\Programming\VisualStudio2008\LIBRARY\LIBRARY\obj\Release\LIBRARY.pdb
+C:\WINDOWS\Segun_Files\Programming\VisualStudio2008\LIBRARY\LIBRARY\obj\Release\LIBRARY.Staff_Register.resources
+C:\WINDOWS\Segun_Files\Programming\VisualStudio2008\LIBRARY\LIBRARY\obj\Release\LIBRARY.conSetting.resources
+C:\WINDOWS\Segun_Files\Programming\VisualStudio2008\LIBRARY\LIBRARY\obj\Release\LIBRARY.Print_Form.resources
+C:\WINDOWS\Segun_Files\Programming\VisualStudio2008\LIBRARY\LIBRARY\obj\Release\LIBRARY.Student_Register.resources
