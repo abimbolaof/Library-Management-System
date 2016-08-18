@@ -1,2 +1,3 @@
 # Library-Management-System
-A library resource management system written in C# with MySql database. This project was done in the year 2010 and was under a tight schedule so the code is not in the most optimized form in terms of length of code due to some code repetition. But you are free to use and modify. Thanks.
+A library resource management system written in C# with MySql database. This project was done in the year 2010 for my final year project and was under a tight schedule so the code is not in the most optimized form in terms of length of code due to some code repetition but very robust and stable. 
+The application is a simple C# desktop application that is capable of managing library resources including collections, users and customers. It uses MySql as the database and connects directly to it through the standard ADO bridge/connector. You are free to use and modify. Thanks.
